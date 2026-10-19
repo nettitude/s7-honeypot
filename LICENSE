@@ -1,0 +1,36 @@
+                    GNU GENERAL PUBLIC LICENSE
+                       Version 3, 29 June 2007
+
+ Copyright (C) 2026  Patrick Matthews
+
+ This program is free software: you can redistribute it and/or modify
+ it under the terms of the GNU General Public License as published by
+ the Free Software Foundation, either version 3 of the License, or
+ (at your option) any later version.
+
+ This program is distributed in the hope that it will be useful,
+ but WITHOUT ANY WARRANTY; without even the implied warranty of
+ MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+ GNU General Public License for more details.
+
+ You should have received a copy of the GNU General Public License
+ along with this program.  If not, see <https://www.gnu.org/licenses/>.
+
+ SPDX-License-Identifier: GPL-3.0-or-later
+
+===============================================================================
+
+ NOTE FOR THE MAINTAINER:
+
+ This header is the short GPL notice. GitHub will not detect the license as
+ GPL-3.0 from the header alone — it needs the FULL license text in this file.
+
+ Before publishing, replace everything below this line with the canonical
+ GPL-3.0 text, which must be included verbatim and not paraphrased:
+
+     curl -o LICENSE https://www.gnu.org/licenses/gpl-3.0.txt
+
+ then re-add your copyright line at the top if you wish. The full text is
+ ~35 KB and is intentionally not reproduced from memory here, because an
+ inaccurate license file has legal consequences — it must be the exact,
+ official FSF text.
